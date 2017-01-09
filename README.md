@@ -7,6 +7,9 @@
 ## 技术栈
 * 前端:vuejs 2.0
 
+## 感谢
+* 使用网友的开源后台demo https://github.com/taylorchen709/vueAdmin
+
 
 
 
