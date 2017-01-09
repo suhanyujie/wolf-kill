@@ -1,3 +1,15 @@
+# 月黑风高狼人出没嗷嗷嗷(狼人群英会)
+
+## 参与人员
+* 官方唯一指定产品经理:`梁秋婷`
+* 开发者:`苏汉宇`
+
+## 技术栈
+* 前端:vuejs 2.0
+
+
+
+
 # vueAdmin
 a simple admin template based on [vuejs2](http://vuejs.org/) and [element](http://element.eleme.io/#/).
 
@@ -21,8 +33,5 @@ npm run build
 
 Modern browsers and Internet Explorer 10+.
 
-### snapshots
-![image](https://github.com/taylorchen709/vueAdmin/blob/master/screenshots/login.png)
-![image](https://github.com/taylorchen709/vueAdmin/blob/master/screenshots/main.png)
-![image](https://github.com/taylorchen709/vueAdmin/blob/master/screenshots/edit.jpg)
+
 # wolf-kill
